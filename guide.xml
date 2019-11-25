@@ -1,0 +1,1401 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VIVA HD">
+    <display-name lang="pt">VIVA HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191125003000 -0400" stop="20191125010000 -0400" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125010000 -0400" stop="20191125020000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125020000 -0400" stop="20191125033000 -0400" channel="VIVA HD">
+    <title lang="pt">Alabama Moon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125033000 -0400" stop="20191125040000 -0400" channel="VIVA HD">
+    <title lang="pt">Grandes Atores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125040000 -0400" stop="20191125050000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125050000 -0400" stop="20191125060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125060000 -0400" stop="20191125070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125070000 -0400" stop="20191125073000 -0400" channel="VIVA HD">
+    <title lang="pt">Vigiando a Vovó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125073000 -0400" stop="20191125081500 -0400" channel="VIVA HD">
+    <title lang="pt">Vigiando a Vovó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125081500 -0400" stop="20191125084500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125084500 -0400" stop="20191125091500 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125091500 -0400" stop="20191125094500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125094500 -0400" stop="20191125101500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125101500 -0400" stop="20191125104500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125104500 -0400" stop="20191125111500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125111500 -0400" stop="20191125114500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125114500 -0400" stop="20191125120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125120000 -0400" stop="20191125123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125123000 -0400" stop="20191125130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125130000 -0400" stop="20191125133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125133000 -0400" stop="20191125143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125143000 -0400" stop="20191125153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125153000 -0400" stop="20191125161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125161500 -0400" stop="20191125170000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125170000 -0400" stop="20191125173000 -0400" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125173000 -0400" stop="20191125180000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125180000 -0400" stop="20191125190000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125190000 -0400" stop="20191125194500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125194500 -0400" stop="20191125201500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125201500 -0400" stop="20191125210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125210000 -0400" stop="20191125220000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Caras de Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125220000 -0400" stop="20191125223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125223000 -0400" stop="20191125230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191125230000 -0400" stop="20191126000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126000000 -0400" stop="20191126004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126004500 -0400" stop="20191126013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126013000 -0400" stop="20191126020000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126020000 -0400" stop="20191126030000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126030000 -0400" stop="20191126033000 -0400" channel="VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126033000 -0400" stop="20191126040000 -0400" channel="VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126040000 -0400" stop="20191126043000 -0400" channel="VIVA HD">
+    <title lang="pt">Vigiando a Vovó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126043000 -0400" stop="20191126050000 -0400" channel="VIVA HD">
+    <title lang="pt">Vigiando a Vovó</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126050000 -0400" stop="20191126060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126060000 -0400" stop="20191126070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126070000 -0400" stop="20191126073000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126073000 -0400" stop="20191126081500 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126081500 -0400" stop="20191126084500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126084500 -0400" stop="20191126091500 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126091500 -0400" stop="20191126094500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126094500 -0400" stop="20191126101500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126101500 -0400" stop="20191126104500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126104500 -0400" stop="20191126111500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126111500 -0400" stop="20191126114500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126114500 -0400" stop="20191126120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126120000 -0400" stop="20191126123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126123000 -0400" stop="20191126130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126130000 -0400" stop="20191126133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126133000 -0400" stop="20191126143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126143000 -0400" stop="20191126153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126153000 -0400" stop="20191126161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126161500 -0400" stop="20191126170000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126170000 -0400" stop="20191126173000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Caras de Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126173000 -0400" stop="20191126180000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126180000 -0400" stop="20191126190000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126190000 -0400" stop="20191126194500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126194500 -0400" stop="20191126201500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126201500 -0400" stop="20191126210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126210000 -0400" stop="20191126220000 -0400" channel="VIVA HD">
+    <title lang="pt">Sai de Baixo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126220000 -0400" stop="20191126223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126223000 -0400" stop="20191126230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191126230000 -0400" stop="20191127000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127000000 -0400" stop="20191127004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127004500 -0400" stop="20191127013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127013000 -0400" stop="20191127020000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127020000 -0400" stop="20191127030000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127030000 -0400" stop="20191127033000 -0400" channel="VIVA HD">
+    <title lang="pt">Grandes Atores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127033000 -0400" stop="20191127040000 -0400" channel="VIVA HD">
+    <title lang="pt">Grandes Atores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127040000 -0400" stop="20191127043000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127043000 -0400" stop="20191127050000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127050000 -0400" stop="20191127060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127060000 -0400" stop="20191127070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127070000 -0400" stop="20191127081500 -0400" channel="VIVA HD">
+    <title lang="pt">Caixa de Costura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127081500 -0400" stop="20191127084500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127084500 -0400" stop="20191127091500 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127091500 -0400" stop="20191127094500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127094500 -0400" stop="20191127101500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127101500 -0400" stop="20191127104500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127104500 -0400" stop="20191127111500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127111500 -0400" stop="20191127114500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127114500 -0400" stop="20191127120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127120000 -0400" stop="20191127123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127123000 -0400" stop="20191127130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127130000 -0400" stop="20191127133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127133000 -0400" stop="20191127143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127143000 -0400" stop="20191127153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127153000 -0400" stop="20191127161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127161500 -0400" stop="20191127170000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127170000 -0400" stop="20191127180000 -0400" channel="VIVA HD">
+    <title lang="pt">Sai de Baixo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127180000 -0400" stop="20191127190000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127190000 -0400" stop="20191127194500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127194500 -0400" stop="20191127201500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127201500 -0400" stop="20191127210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127210000 -0400" stop="20191127220000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127220000 -0400" stop="20191127223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127223000 -0400" stop="20191127230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191127230000 -0400" stop="20191128000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128000000 -0400" stop="20191128004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128004500 -0400" stop="20191128013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128013000 -0400" stop="20191128020000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128020000 -0400" stop="20191128030000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128030000 -0400" stop="20191128033000 -0400" channel="VIVA HD">
+    <title lang="pt">Donos da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128033000 -0400" stop="20191128040000 -0400" channel="VIVA HD">
+    <title lang="pt">Donos da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128040000 -0400" stop="20191128050000 -0400" channel="VIVA HD">
+    <title lang="pt">Caixa de Costura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128050000 -0400" stop="20191128060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128060000 -0400" stop="20191128070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128070000 -0400" stop="20191128081500 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128081500 -0400" stop="20191128084500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128084500 -0400" stop="20191128091500 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128091500 -0400" stop="20191128094500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128094500 -0400" stop="20191128101500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128101500 -0400" stop="20191128104500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128104500 -0400" stop="20191128111500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128111500 -0400" stop="20191128114500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128114500 -0400" stop="20191128120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128120000 -0400" stop="20191128123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128123000 -0400" stop="20191128130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128130000 -0400" stop="20191128133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128133000 -0400" stop="20191128143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128143000 -0400" stop="20191128153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128153000 -0400" stop="20191128161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128161500 -0400" stop="20191128170000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128170000 -0400" stop="20191128180000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128180000 -0400" stop="20191128190000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128190000 -0400" stop="20191128194500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128194500 -0400" stop="20191128201500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128201500 -0400" stop="20191128210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128210000 -0400" stop="20191128220000 -0400" channel="VIVA HD">
+    <title lang="pt">Pé na Cova</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128220000 -0400" stop="20191128223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128223000 -0400" stop="20191128230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191128230000 -0400" stop="20191129000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129000000 -0400" stop="20191129004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129004500 -0400" stop="20191129013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129013000 -0400" stop="20191129020000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129020000 -0400" stop="20191129030000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129030000 -0400" stop="20191129033000 -0400" channel="VIVA HD">
+    <title lang="pt">Rebobina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129033000 -0400" stop="20191129040000 -0400" channel="VIVA HD">
+    <title lang="pt">Rebobina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129040000 -0400" stop="20191129050000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129050000 -0400" stop="20191129060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129060000 -0400" stop="20191129070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129070000 -0400" stop="20191129081500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões na Terra dos Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129081500 -0400" stop="20191129084500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129084500 -0400" stop="20191129091500 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129091500 -0400" stop="20191129094500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129094500 -0400" stop="20191129101500 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129101500 -0400" stop="20191129104500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129104500 -0400" stop="20191129111500 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129111500 -0400" stop="20191129114500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129114500 -0400" stop="20191129120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129120000 -0400" stop="20191129123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129123000 -0400" stop="20191129130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129130000 -0400" stop="20191129133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129133000 -0400" stop="20191129143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129143000 -0400" stop="20191129153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129153000 -0400" stop="20191129161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129161500 -0400" stop="20191129170000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129170000 -0400" stop="20191129173000 -0400" channel="VIVA HD">
+    <title lang="pt">Pé na Cova</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129173000 -0400" stop="20191129180000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129180000 -0400" stop="20191129190000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129190000 -0400" stop="20191129194500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129194500 -0400" stop="20191129201500 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129201500 -0400" stop="20191129210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129210000 -0400" stop="20191129220000 -0400" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129220000 -0400" stop="20191129223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129223000 -0400" stop="20191129230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191129230000 -0400" stop="20191130000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130000000 -0400" stop="20191130004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130004500 -0400" stop="20191130013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130013000 -0400" stop="20191130020000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130020000 -0400" stop="20191130030000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130030000 -0400" stop="20191130040000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130040000 -0400" stop="20191130050000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões na Terra dos Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130050000 -0400" stop="20191130060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130060000 -0400" stop="20191130070000 -0400" channel="VIVA HD">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130070000 -0400" stop="20191130084500 -0400" channel="VIVA HD">
+    <title lang="pt">Um Presente Para Toda Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130084500 -0400" stop="20191130103000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões e a Árvore da Juventude</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130103000 -0400" stop="20191130121500 -0400" channel="VIVA HD">
+    <title lang="pt">Domingão do Faustão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130121500 -0400" stop="20191130124500 -0400" channel="VIVA HD">
+    <title lang="pt">Pé na Cova</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130124500 -0400" stop="20191130133000 -0400" channel="VIVA HD">
+    <title lang="pt">A Diarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130133000 -0400" stop="20191130143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130143000 -0400" stop="20191130153000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130153000 -0400" stop="20191130161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130161500 -0400" stop="20191130165000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130165000 -0400" stop="20191130172500 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130172500 -0400" stop="20191130180000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130180000 -0400" stop="20191130190000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130190000 -0400" stop="20191130193000 -0400" channel="VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130193000 -0400" stop="20191130214000 -0400" channel="VIVA HD">
+    <title lang="pt">Princesa Xuxa e os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130214000 -0400" stop="20191130222000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130222000 -0400" stop="20191130230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191130230000 -0400" stop="20191201000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201000000 -0400" stop="20191201004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201004500 -0400" stop="20191201013000 -0400" channel="VIVA HD">
+    <title lang="pt">Selva de Pedra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201013000 -0400" stop="20191201023000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201023000 -0400" stop="20191201033000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201033000 -0400" stop="20191201040000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201040000 -0400" stop="20191201043000 -0400" channel="VIVA HD">
+    <title lang="pt">Donos da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201043000 -0400" stop="20191201050000 -0400" channel="VIVA HD">
+    <title lang="pt">Grandes Atores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201050000 -0400" stop="20191201053000 -0400" channel="VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201053000 -0400" stop="20191201060000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201060000 -0400" stop="20191201070000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201070000 -0400" stop="20191201080000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201080000 -0400" stop="20191201090000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201090000 -0400" stop="20191201093000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver com Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201093000 -0400" stop="20191201103000 -0400" channel="VIVA HD">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201103000 -0400" stop="20191201113000 -0400" channel="VIVA HD">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201113000 -0400" stop="20191201123000 -0400" channel="VIVA HD">
+    <title lang="pt">Mr. M</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201123000 -0400" stop="20191201133000 -0400" channel="VIVA HD">
+    <title lang="pt">Mr. M</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201133000 -0400" stop="20191201140000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Caras de Pau</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201140000 -0400" stop="20191201144500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201144500 -0400" stop="20191201153000 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201153000 -0400" stop="20191201161500 -0400" channel="VIVA HD">
+    <title lang="pt">Os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201161500 -0400" stop="20191201173000 -0400" channel="VIVA HD">
+    <title lang="pt">Princesa Xuxa e os Trapalhões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201173000 -0400" stop="20191201183000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201183000 -0400" stop="20191201190000 -0400" channel="VIVA HD">
+    <title lang="pt">As Vilãs que Amamos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201190000 -0400" stop="20191201194500 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201194500 -0400" stop="20191201203000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201203000 -0400" stop="20191201211500 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201211500 -0400" stop="20191201220000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201220000 -0400" stop="20191201224500 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201224500 -0400" stop="20191201233000 -0400" channel="VIVA HD">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191201233000 -0400" stop="20191202010000 -0400" channel="VIVA HD">
+    <title lang="pt">Sai de Baixo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
